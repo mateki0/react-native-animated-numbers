@@ -32,15 +32,15 @@
   "peerDependencies": {
     "react": ">=16.8.0",
     "react-native": ">=0.59",
-    "react-native-reanimated": ">=2",
-    "react-native-gesture-handler": "1.10.3"
+    "react-native-reanimated": "3.1.0",
+    "react-native-gesture-handler": "2.8.0"
   },
   "devDependencies": {
     "eslint": "^7.4.0",
     "eslint-plugin-react": "^7.20.3"
   },
   "dependencies": {
-    "react-native-reanimated": "^2.2.4",
-    "react-native-gesture-handler": "^1.10.3"
+    "react-native-reanimated": "3.1.0",
+    "react-native-gesture-handler": "2.8.0"
   }
 }
